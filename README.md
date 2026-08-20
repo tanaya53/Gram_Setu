@@ -18,6 +18,7 @@
 
 ## 📸 Screenshots
 
+Admin_Complaints_Dashboard.png
 <!-- Add 2-4 screenshots or a short GIF walkthrough here — this is the single highest-impact addition you can make.
 Example:
 ![Dashboard](screenshots/dashboard.png)
